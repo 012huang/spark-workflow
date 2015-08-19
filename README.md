@@ -8,4 +8,12 @@
 
 workflow 工作流框架
 
+单个节点交互过程
+
+![actor-desgin](http://7xl71l.com1.z0.glb.clouddn.com/workflow_defign_超脑工作流.jpg)
+
+计算流程图:
+
+![computer-desgin](http://7xl71l.com1.z0.glb.clouddn.com/workflow_defign_工作流训练预测.jpg)
+
 datapreprocessing 数据预处理框架
